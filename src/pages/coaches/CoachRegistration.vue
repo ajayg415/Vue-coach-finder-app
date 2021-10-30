@@ -1,0 +1,1 @@
+<template>Registering Coach...</template>
