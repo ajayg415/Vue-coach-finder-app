@@ -2,7 +2,7 @@
   <section>
     <base-card>
       <h2>Register a coach now!</h2>
-      <coach-form></coach-form>
+      <CoachForm />
     </base-card>
   </section>
 </template>
